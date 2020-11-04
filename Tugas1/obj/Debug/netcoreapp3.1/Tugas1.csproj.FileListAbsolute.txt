@@ -1,0 +1,13 @@
+C:\netapp\tugas1\bin\Debug\netcoreapp3.1\Tugas1.exe
+C:\netapp\tugas1\bin\Debug\netcoreapp3.1\Tugas1.deps.json
+C:\netapp\tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.json
+C:\netapp\tugas1\bin\Debug\netcoreapp3.1\Tugas1.runtimeconfig.dev.json
+C:\netapp\tugas1\bin\Debug\netcoreapp3.1\Tugas1.dll
+C:\netapp\tugas1\bin\Debug\netcoreapp3.1\Tugas1.pdb
+C:\netapp\tugas1\obj\Debug\netcoreapp3.1\Tugas1.csprojAssemblyReference.cache
+C:\netapp\tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfoInputs.cache
+C:\netapp\tugas1\obj\Debug\netcoreapp3.1\Tugas1.AssemblyInfo.cs
+C:\netapp\tugas1\obj\Debug\netcoreapp3.1\Tugas1.csproj.CoreCompileInputs.cache
+C:\netapp\tugas1\obj\Debug\netcoreapp3.1\Tugas1.dll
+C:\netapp\tugas1\obj\Debug\netcoreapp3.1\Tugas1.pdb
+C:\netapp\tugas1\obj\Debug\netcoreapp3.1\Tugas1.genruntimeconfig.cache
